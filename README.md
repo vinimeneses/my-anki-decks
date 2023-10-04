@@ -1,4 +1,4 @@
->No speak portuguese? click [here](README-EN.md)<
+>Don't speak portuguese? click [here](README-EN.md)<
 # Guia de Importação dos meus baralhos do Anki
 
 O Anki é um software de repetição espaçada que ajuda na memorização de informações através da criação de cartões de memória.
