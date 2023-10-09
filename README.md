@@ -14,7 +14,7 @@ Antes de começar, certifique-se de que você tenha o Anki instalado em seu comp
 ## Passos para Importação de Cartões
 
 Siga os passos abaixo para importar cartões no Anki:
-1. Baixe os arquivos inglês.apkg ou programação.apkg 
+1. Baixe os arquivos da pasta cards.
 
 2. Abra o Anki em seu computador.
 
